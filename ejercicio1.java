@@ -3,7 +3,7 @@ public class ejercicio1 {
         int valor;
         for (int i=1; i<=10;i++){
                 valor = a * i;
-                valor = valor+1;
+                // valor = valor+1;
                 System.out.println(a + " x " + i + " = " + valor);
         }
     }
